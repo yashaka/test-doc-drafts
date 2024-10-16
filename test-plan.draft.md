@@ -4,6 +4,8 @@
 
 - **AS A project team WE WANT to provide product features matching business goals, requirements and corresponding stakeholders expectations SO the company business gives profit and grows 🙂**
 
+- ## ⬇️ Thus, We Plan Testing... ⬇️
+
 - ## Taking Into Account ↘️
 
   - ### Context
@@ -23,8 +25,6 @@
   - ### Legend (Terms used)
 
     - *TBD*
-
-- ## ⬇️ Thus, We Plan Testing... ⬇️
 
 - ## Where to? ↘️
 
